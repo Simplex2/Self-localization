@@ -1,0 +1,132 @@
+﻿生成启动时间为 2017/4/2 21:57:54。
+     1>项目“F:\0MSRT\Sensing and Sensors\surf\SelfLocalization\SurfMatch\SurfMatch.vcxproj”在节点 2 上(Build 个目标)。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(388,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (SurfMatch.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>ClCompile:
+         F:\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt descriptor.cpp disparity.cpp elas.cpp filter.cpp main.cpp matrix.cpp triangle.cpp
+         triangle.cpp
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\triangle.cpp(1358): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\triangle.cpp(1362): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\triangle.cpp(1264): warning C4101: “k”: 未引用的局部变量
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\triangle.cpp(1265): warning C4101: “workstring”: 未引用的局部变量
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\triangle.cpp(2434): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\triangle.cpp(2438): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\triangle.cpp(2439): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\triangle.cpp(2440): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\triangle.cpp(2441): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\triangle.cpp(2442): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\triangle.cpp(2443): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\triangle.cpp(2444): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\triangle.cpp(2445): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\triangle.cpp(2446): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\triangle.cpp(2447): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\triangle.cpp(2894): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\triangle.cpp(2927): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\triangle.cpp(2946): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\triangle.cpp(2965): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\triangle.cpp(2984): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\triangle.cpp(3003): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\triangle.cpp(3022): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\triangle.cpp(3070): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\triangle.cpp(3097): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\triangle.cpp(3112): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\triangle.cpp(3124): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\triangle.cpp(3167): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\triangle.cpp(3194): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\triangle.cpp(3209): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\triangle.cpp(3221): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\triangle.cpp(3264): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\triangle.cpp(3291): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\triangle.cpp(3306): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\triangle.cpp(3318): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\triangle.cpp(3934): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\triangle.cpp(3939): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\triangle.cpp(3954): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\triangle.cpp(3955): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\triangle.cpp(3965): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\triangle.cpp(3966): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\triangle.cpp(3977): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\triangle.cpp(3979): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\triangle.cpp(3998): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\triangle.cpp(3999): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\triangle.cpp(5209): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\triangle.cpp(5220): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\triangle.cpp(7594): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\triangle.cpp(8216): warning C4305: “=”: 从“double”到“float”截断
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\triangle.cpp(8217): warning C4305: “=”: 从“double”到“float”截断
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\triangle.cpp(8345): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+         matrix.cpp
+         main.cpp
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\elas.h(95): warning C4305: “=”: 从“double”到“float”截断
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\elas.h(103): warning C4305: “=”: 从“double”到“float”截断
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\elas.h(122): warning C4305: “=”: 从“double”到“float”截断
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\elas.h(130): warning C4305: “=”: 从“double”到“float”截断
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\main.cpp(98): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\main.cpp(99): warning C4244: “参数”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\main.cpp(100): warning C4244: “参数”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\main.cpp(108): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\main.cpp(135): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\main.cpp(136): warning C4244: “参数”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\main.cpp(137): warning C4244: “参数”: 从“float”转换到“unsigned int”，可能丢失数据
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\main.cpp(144): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\main.cpp(222): warning C4018: “<”: 有符号/无符号不匹配
+         filter.cpp
+         elas.cpp
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\elas.h(95): warning C4305: “=”: 从“double”到“float”截断
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\elas.h(103): warning C4305: “=”: 从“double”到“float”截断
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\elas.h(122): warning C4305: “=”: 从“double”到“float”截断
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\elas.h(130): warning C4305: “=”: 从“double”到“float”截断
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\elas.cpp(248): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\elas.cpp(250): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\elas.cpp(266): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\elas.cpp(457): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\elas.cpp(458): warning C4244: “=”: 从“int32_t”转换到“float”，可能丢失数据
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\elas.cpp(459): warning C4244: “=”: 从“int32_t”转换到“float”，可能丢失数据
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\elas.cpp(462): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\elas.cpp(463): warning C4244: “=”: 从“int32_t”转换到“float”，可能丢失数据
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\elas.cpp(464): warning C4244: “=”: 从“int32_t”转换到“float”，可能丢失数据
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\elas.cpp(515): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\elas.cpp(539): warning C4244: “=”: 从“FLOAT”转换到“float”，可能丢失数据
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\elas.cpp(540): warning C4244: “=”: 从“FLOAT”转换到“float”，可能丢失数据
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\elas.cpp(541): warning C4244: “=”: 从“FLOAT”转换到“float”，可能丢失数据
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\elas.cpp(567): warning C4244: “=”: 从“FLOAT”转换到“float”，可能丢失数据
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\elas.cpp(568): warning C4244: “=”: 从“FLOAT”转换到“float”，可能丢失数据
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\elas.cpp(569): warning C4244: “=”: 从“FLOAT”转换到“float”，可能丢失数据
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\elas.cpp(591): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\elas.cpp(604): warning C4244: “=”: 从“float”转换到“int32_t”，可能丢失数据
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\elas.cpp(606): warning C4244: “=”: 从“float”转换到“int32_t”，可能丢失数据
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\elas.cpp(607): warning C4244: “初始化”: 从“float”转换到“int32_t”，可能丢失数据
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\elas.cpp(779): warning C4244: “=”: 从“int32_t”转换到“float”，可能丢失数据
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\elas.cpp(838): warning C4244: “=”: 从“int32_t”转换到“float”，可能丢失数据
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\elas.cpp(839): warning C4244: “=”: 从“int32_t”转换到“float”，可能丢失数据
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\elas.cpp(840): warning C4244: “=”: 从“int32_t”转换到“float”，可能丢失数据
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\elas.cpp(842): warning C4244: “=”: 从“int32_t”转换到“float”，可能丢失数据
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\elas.cpp(843): warning C4244: “=”: 从“int32_t”转换到“float”，可能丢失数据
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\elas.cpp(844): warning C4244: “=”: 从“int32_t”转换到“float”，可能丢失数据
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\elas.cpp(846): warning C4244: “初始化”: 从“int32_t”转换到“float”，可能丢失数据
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\elas.cpp(991): warning C4244: “=”: 从“float”转换到“int32_t”，可能丢失数据
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\elas.cpp(1321): warning C4305: “参数”: 从“int”到“float”截断
+         disparity.cpp
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\elas.h(95): warning C4305: “=”: 从“double”到“float”截断
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\elas.h(103): warning C4305: “=”: 从“double”到“float”截断
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\elas.h(122): warning C4305: “=”: 从“double”到“float”截断
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\elas.h(130): warning C4305: “=”: 从“double”到“float”截断
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\disparity.cpp(121): warning C4244: “参数”: 从“float”转换到“const int”，可能丢失数据
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\disparity.cpp(132): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\disparity.cpp(193): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+         descriptor.cpp
+         正在生成代码...
+     1>f:\0msrt\sensing and sensors\surf\selflocalization\surfmatch\matrix.cpp(412): warning C4715: “Matrix::det”: 不是所有的控件路径都返回值
+       Link:
+         F:\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\0MSRT\Sensing and Sensors\surf\SelfLocalization\Debug\SelfLocalization.exe" /INCREMENTAL /NOLOGO opencv_ml249d.lib opencv_calib3d249d.lib opencv_contrib249d.lib opencv_core249d.lib opencv_features2d249d.lib opencv_flann249d.lib opencv_gpu249d.lib opencv_highgui249d.lib opencv_imgproc249d.lib opencv_legacy249d.lib opencv_objdetect249d.lib opencv_ts249d.lib opencv_video249d.lib opencv_nonfree249d.lib opencv_ocl249d.lib opencv_photo249d.lib opencv_stitching249d.lib opencv_superres249d.lib opencv_videostab249d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\0MSRT\Sensing and Sensors\surf\SelfLocalization\Debug\SelfLocalization.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\0MSRT\Sensing and Sensors\surf\SelfLocalization\Debug\SelfLocalization.lib" /MACHINE:X86 Debug\descriptor.obj
+         Debug\disparity.obj
+         Debug\elas.obj
+         Debug\filter.obj
+         Debug\main.obj
+         Debug\matrix.obj
+         Debug\triangle.obj
+         SurfMatch.vcxproj -> F:\0MSRT\Sensing and Sensors\surf\SelfLocalization\Debug\SelfLocalization.exe
+     1>已完成生成项目“F:\0MSRT\Sensing and Sensors\surf\SelfLocalization\SurfMatch\SurfMatch.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:05.24
